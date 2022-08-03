@@ -1,6 +1,6 @@
 # **Siamese Network SNN**
 
-Siamese Network is a type of network architecture that contains two or more identical subnetwork used for generate feature vectors for each input and compare them.
+Siamese Network is a type of network architecture that contains two or more identical subnetwork used for generate feature vectors for each input and compare them. 
 
 A Siamese Neural Network is a class of neural network architectures that contain two or more ***identical subnetworks***. Identical, here means, they have the same configuration with the same parameters and weights. Parameter updating is mirrored across both sub-networks. It is used to find the similarity of the inputs by comparing its feature vectors, so these networks are used in many applications
 
